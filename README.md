@@ -39,9 +39,9 @@ Demo
 
 https://github.com/jitendra3618/QR_Code_Scanner/assets/137607500/f12b2f0b-309b-4a50-8748-544fffc3e986
 
-HTML5-qrcode library methods:
-Html5QrcodeScanner: Initializes the QR code scanner.
-render(): Renders the scanner within a specified HTML element.
-onScanSuccess(decodeText, decodeResult): A callback function triggered upon successful QR code scanning, displaying decoded text in an alert.
-fps: Sets the frames per second for video capture.
-qrbos: Sets the QR code detection boundary size.
+HTML5-qrcode library methods:<br>
+Html5QrcodeScanner: Initializes the QR code scanner.<br>
+render(): Renders the scanner within a specified HTML element.<br>
+onScanSuccess(decodeText, decodeResult): A callback function triggered upon successful QR code scanning, displaying decoded text in an alert.<br>
+fps: Sets the frames per second for video capture.<br>
+qrbos: Sets the QR code detection boundary size.<br>
