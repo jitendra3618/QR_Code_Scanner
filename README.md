@@ -3,37 +3,37 @@
 Live link https://jitendra3618.github.io/QR_Code_Scanner/
 
 
-Overview
+<h1>Overview</h1>
 This project is a simple QR Code Scanner web application that allows users to decode QR codes using their browser. The application provides two options for scanning QR codes:
 
-Upload Image: Users can upload an image file containing a QR code to be scanned.
-Camera Scan: Users can use the camera of their system to scan QR codes in real-time.
-The decoded text of the scanned QR code is then displayed to the user through an alert message.
+Upload Image: Users can upload an image file containing a QR code to be scanned.<br>
+Camera Scan: Users can use the camera of their system to scan QR codes in real-time.<br>
+The decoded text of the scanned QR code is then displayed to the user through an alert message.<br>
 
-Features
-Upload Image: Allows users to upload an image file for QR code scanning.
-Camera Scan: Enables real-time QR code scanning using the system's camera.
-Alert Message: Displays the decoded text of the scanned QR code in an alert message.
-Technologies Used
-HTML: Markup language for creating the structure of the web pages.
-CSS: Stylesheet language for designing the visual presentation.
-JavaScript: Programming language for implementing the QR code scanning functionality.
+<h1>Features</h1>
+Upload Image: Allows users to upload an image file for QR code scanning.<br>
+Camera Scan: Enables real-time QR code scanning using the system's camera.<br>
+Alert Message: Displays the decoded text of the scanned QR code in an alert message.<br>
+<h1>Technologies Used</h1>
+HTML: Markup language for creating the structure of the web pages.<br>
+CSS: Stylesheet language for designing the visual presentation.<br>
+JavaScript: Programming language for implementing the QR code scanning functionality.<br>
 
 Usage
-Upload Image:
+<br>Upload Image:<br>
 
-Click on the "Upload Image" button.
-Choose an image file containing a QR code.
-Click "Scan" to decode the QR code.
-Camera Scan:
+Click on the "Upload Image" button.<br>
+Choose an image file containing a QR code.<br>
+Click "Scan" to decode the QR code.<br>
+Camera Scan:<br>
 
-Click on the "Camera Scan" button.
-Allow the browser to access your camera.
+Click on the "Camera Scan" button.<br>
+Allow the browser to access your camera.<br>
 Align the QR code within the camera view to decode it.
-Alert Message:
+Alert Message:<br>
 
 After scanning, an alert message will display the decoded text.
-Demo
+<h1>Demo</h1>
 (https://github.com/jitendra3618/QR_Code_Scanner/files/14000632/Jitendra_Resume.docx)
 
 
